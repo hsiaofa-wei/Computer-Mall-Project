@@ -101,11 +101,11 @@ store/
 ```
 
 ## 部分截图展示
-![部分截图预览](/SomeDisplays/show(1).png)
-![部分截图预览](/SomeDisplays/show(2).png)
-![部分截图预览](/SomeDisplays/show(3).png)
-![部分截图预览](/SomeDisplays/show(4).png)
-![部分截图预览](/SomeDisplays/show(5).png)
-![部分截图预览](/SomeDisplays/show(6).png)
-![部分截图预览](/SomeDisplays/show(7).png)
+![部分截图预览](/SomeDisplays/Show(1).png)
+![部分截图预览](/SomeDisplays/Show(2).png)
+![部分截图预览](/SomeDisplays/Show(3).png)
+![部分截图预览](/SomeDisplays/Show(4).png)
+![部分截图预览](/SomeDisplays/Show(5).png)
+![部分截图预览](/SomeDisplays/Show(6).png)
+![部分截图预览](/SomeDisplays/Show(7).png)
 >更多内容请您下载观看
