@@ -1,36 +1,47 @@
-# 电脑商城项目 - Web开发实训
+## 部分截图展示
+![部分截图预览](/SomeDisplays/Show(1).png)
+![部分截图预览](/SomeDisplays/Show(2).png)
+![部分截图预览](/SomeDisplays/Show(3).png)
+![部分截图预览](/SomeDisplays/Show(4).png)
+![部分截图预览](/SomeDisplays/Show(5).png)
+![部分截图预览](/SomeDisplays/Show(6).png)
+![部分截图预览](/SomeDisplays/Show(7).png)
+>更多内容请您下载观看
+
+# TechHub Mall · 电脑数码电商平台
+
+基于 **Spring Boot + MyBatis** 开发的前后端分离电脑商品在线销售系统，提供完整的电商购物体验。
 
 ## 项目简介
-本项目是一个基于Spring Boot的电脑商品在线销售平台，其主要功能包括：
-- 用户注册、登录系统
-- 商品浏览与分类展示
-- 购物车功能
-- 订单管理
-- 地址管理
-- 商品收藏功能
+TechHub Mall 是一个功能齐全的电脑数码电商平台，用户可以浏览分类商品、加入购物车、下单支付、收藏心仪产品，并管理收货地址和个人订单。项目采用前后端分离架构，后端负责业务逻辑和数据接口，前端使用 Bootstrap 实现响应式页面。
 
-项目采用前后端分离架构，前端使用Bootstrap框架构建响应式页面，后端使用Spring Boot+MyBatis技术栈。
-
+核心功能：
+- 用户注册/登录/个人信息管理
+- 商品分类浏览 & 详情查看
+- 购物车（添加/编辑/删除/结算）
+- 订单创建、支付模拟、状态跟踪
+- 收货地址管理
+- 商品收藏夹
 ## 技术栈
 
-### 后端技术
-- Spring Boot：基础框架
-- MySQL 8.0：关系型数据库
-- MyBatis：ORM框架（开启驼峰命名映射）
-- Lombok：简化实体类开发
-- Maven：项目构建与依赖管理
+### 后端
+- Spring Boot（核心框架）
+- MySQL 8.0（数据库）
+- MyBatis（ORM，开启驼峰映射）
+- Lombok（简化实体类）
+- Maven（依赖管理 & 构建）
 
-### 前端技术
-- Bootstrap 3：响应式页面框架
-- Font Awesome 4.7.0：图标库
-- jQuery 1.9.1：DOM操作与AJAX请求
-- Holder.js：图片占位工具
+### 前端
+- Bootstrap 3（响应式布局）
+- jQuery 1.9.1（DOM 操作 & AJAX）
+- Font Awesome 4.7.0（图标）
+- Holder.js（图片占位）
 
 ## 运行环境
-- JDK：1.8
-- 操作系统：Windows 11
-- IDE：IntelliJ IDEA 
-- 数据库：MySQL（端口3306）
+- JDK 1.8+
+- MySQL 8.0（端口 3306）
+- 操作系统：Windows / macOS / Linux
+- IDE：IntelliJ IDEA / Eclipse
 
 ## 项目启动
 1. 确保数据库已创建并导入数据。   
@@ -46,31 +57,6 @@
 3. 启动项目。
 4. 打开浏览器访问前端页面：`http://localhost:8080/`
 
-## 不足之处
-### 功能方面
-#### 核心功能待完善：
-- 商品搜索功能未完全实现
-- 支付功能仅为模拟实现
-- 缺少后台管理系统
-
-#### 用户体验：
-- 页面交互效果较简单
-- 缺少数据验证和错误提示
-- 响应式设计有待优化
-
-#### 业务逻辑：
-- 库存管理未实现
-- 优惠券/促销功能缺失
-- 订单状态流转不完整
-
-#### 技术方面
-- 前端代码复用率低（大量重复HTML）
-- 缺少模块化设计
-- CSS样式组织混乱
-- 接口权限控制不完善
-- 未实现缓存机制
-- 图片未做压缩处理
-- 数据库查询未优化
 
 #### 项目亮点
 - 完整的电商业务流程实现 
@@ -100,12 +86,3 @@ store/
 └── store.iml # 项目配置文件
 ```
 
-## 部分截图展示
-![部分截图预览](/SomeDisplays/Show(1).png)
-![部分截图预览](/SomeDisplays/Show(2).png)
-![部分截图预览](/SomeDisplays/Show(3).png)
-![部分截图预览](/SomeDisplays/Show(4).png)
-![部分截图预览](/SomeDisplays/Show(5).png)
-![部分截图预览](/SomeDisplays/Show(6).png)
-![部分截图预览](/SomeDisplays/Show(7).png)
->更多内容请您下载观看
