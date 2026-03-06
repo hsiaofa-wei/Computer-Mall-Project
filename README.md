@@ -85,4 +85,5 @@ store/
 ├── pom.xml # Maven配置
 └── store.iml # 项目配置文件
 ```
+欢迎 Star & Fork！如果对 Spring AI、多模态应用或 Vue 3 全栈开发感兴趣，欢迎 Issues 交流～
 
